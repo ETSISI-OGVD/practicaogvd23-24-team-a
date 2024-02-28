@@ -1,6 +1,5 @@
 # TEAM A
 
 ### Alumnos
-Alberto Cano Turnes
-
+Alberto Cano Turnes ..
 Alejandro Glozman
