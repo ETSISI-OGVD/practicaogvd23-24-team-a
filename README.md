@@ -1,5 +1,8 @@
 # TEAM A
 
-### Alumnos
+#### Profesora:
+Jessica Diaz Fernandez
+
+#### Alumnos:
 Alberto Cano Turnes  
 Alejandro Glozman
