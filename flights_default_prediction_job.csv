@@ -1,0 +1,2 @@
+﻿displayName,parentRunId,status,createdTime,favorite,duration,createdBy,computeTarget,runType,tags
+"flights_default_prediction","null","Completed","""2024-03-12T10:53:37.273Z""",false,"108.562s","ALBERTO CANO TURNES","upmpractica-computeds","azureml.scriptrun","{""estimator_name"":""Pipeline"",""estimator_class"":""sklearn.pipeline.Pipeline""}"
